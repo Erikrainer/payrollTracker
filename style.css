@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 html,
 body,
 .wrapper {
@@ -15,6 +16,7 @@ body,
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
+
 }
 
 .wrapper {
