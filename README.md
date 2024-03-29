@@ -5,6 +5,9 @@ Module 3 Challenge at this time, i have a starter code to modify and create some
 ## Installation
 
 erikrainer.github.io/payrollTracker/ (Deployed WebApp)
+![Untitled_ Mar 28, 2024 9_28 PM](https://github.com/Erikrainer/payrollTracker/assets/160955635/be84d7a0-29ff-4ed9-92a5-102e39bfc452)
+
+![Screenshot 2024-03-28 212911](https://github.com/Erikrainer/payrollTracker/assets/160955635/2a31abe4-4662-48fa-aaf5-3929170ff6a5)
 
 ## Usage
 
